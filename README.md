@@ -2,7 +2,7 @@
 
 Lists notice windows in a plain-text contract: `30 days' prior written notice`, `10 business days' notice`.
 
-Not legal advice. It does not decide if a window is enforceable, and it ignores a cure period that never uses the word notice.
+A cure period that never uses the word notice is ignored. The tool does not decide whether the window is enforceable.
 
 ## Run
 

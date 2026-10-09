@@ -1,16 +1,15 @@
 SERVICES AGREEMENT
 
-This Services Agreement is between Harbor Street LLC ("Customer") and Northline Data LLC ("Vendor").
-It is fiction and not a form.
+This agreement is between Harbour Street Limited ("Customer") and Northline Data Limited ("Supplier").
 
 1. Term
 This Agreement starts on the Effective Date and continues for one year. Either party may terminate for convenience on thirty (30) days' prior written notice.
 
 2. Suspension
-Vendor may suspend service on ten (10) business days' notice if an invoice is unpaid.
+Supplier may suspend service on ten (10) business days' notice if an invoice is unpaid.
 
 3. Emergency
-Vendor may suspend immediately, without prior notice, if a security incident is underway. That sentence has no day count.
+Supplier may suspend immediately, without prior notice, if a security incident is underway. That sentence has no day count.
 
 4. Renewal
 The term renews for successive one-year periods unless Customer gives 60 days' notice before the renewal date.
